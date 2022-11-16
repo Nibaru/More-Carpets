@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "more_carpets:block/brown_mushroom_carpet",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "more_carpets:block/brown_mushroom_carpet",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "more_carpets:block/brown_mushroom_carpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "more_carpets:block/brown_mushroom_carpet",
+      "y": 270
+    }
+  }
+}

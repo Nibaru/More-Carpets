@@ -1,24 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "modtemplate",
+  "id": "more_carpets",
   "version": "${version}",
-  "name": "Modtemplate",
-  "description": "",
-  "authors": [],
+  "name": "More Carpets",
+  "description": "Adds More Carpet Blocks",
+  "authors": ["Nibaru"],
   "contact": {},
   "license": "LGPL-3.0",
-  "icon": "assets/modtemplate/icon.png",
+  "icon": "assets/more_carpets/icon.gif",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "games.twinhead.modtemplate.client.ModtemplateClient"
+      "games.twinhead.morecarpets.client.MoreCarpetsClient"
     ],
     "main": [
-      "games.twinhead.modtemplate.Modtemplate"
+      "games.twinhead.morecarpets.MoreCarpets"
+    ],
+    "fabric-datagen": [
+      "games.twinhead.morecarpets.datagen.MoreCarpetsDatagen"
     ]
   },
   "mixins": [
-    "modtemplate.mixins.json"
+    "more_carpets.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.10",
