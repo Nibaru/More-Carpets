@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "more_carpets:oak_veneer",
+    "more_carpets:acacia_veneer",
+    "more_carpets:dark_oak_veneer",
+    "more_carpets:birch_veneer",
+    "more_carpets:jungle_veneer",
+    "more_carpets:mangrove_veneer",
+    "more_carpets:spruce_veneer",
+    "more_carpets:crimson_veneer",
+    "more_carpets:warped_veneer",
+    "more_carpets:stripped_oak_veneer",
+    "more_carpets:stripped_acacia_veneer",
+    "more_carpets:stripped_dark_oak_veneer",
+    "more_carpets:stripped_birch_veneer",
+    "more_carpets:stripped_jungle_veneer",
+    "more_carpets:stripped_mangrove_veneer",
+    "more_carpets:stripped_spruce_veneer",
+    "more_carpets:stripped_crimson_veneer",
+    "more_carpets:stripped_warped_veneer",
+    "more_carpets:oak_planks_veneer",
+    "more_carpets:acacia_planks_veneer",
+    "more_carpets:dark_oak_planks_veneer",
+    "more_carpets:birch_planks_veneer",
+    "more_carpets:jungle_planks_veneer",
+    "more_carpets:mangrove_planks_veneer",
+    "more_carpets:spruce_planks_veneer",
+    "more_carpets:crimson_planks_veneer",
+    "more_carpets:warped_planks_veneer"
+  ]
+}

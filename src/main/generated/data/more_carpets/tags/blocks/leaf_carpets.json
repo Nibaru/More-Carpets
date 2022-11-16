@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "more_carpets:oak_leaves_carpet",
+    "more_carpets:acacia_leaves_carpet",
+    "more_carpets:dark_oak_leaves_carpet",
+    "more_carpets:birch_leaves_carpet",
+    "more_carpets:jungle_leaves_carpet",
+    "more_carpets:mangrove_leaves_carpet",
+    "more_carpets:spruce_leaves_carpet",
+    "more_carpets:flowering_azalea_leaves_carpet",
+    "more_carpets:azalea_leaves_carpet"
+  ]
+}

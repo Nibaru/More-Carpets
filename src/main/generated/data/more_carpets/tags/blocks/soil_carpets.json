@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "more_carpets:grass_carpet",
+    "more_carpets:podzol_carpet",
+    "more_carpets:mycelium_carpet"
+  ]
+}

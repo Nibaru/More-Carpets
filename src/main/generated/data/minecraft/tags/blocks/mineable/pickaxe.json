@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "more_carpets:magma_block_carpet",
+    "more_carpets:warped_nylium_carpet",
+    "more_carpets:crimson_nylium_carpet",
+    "more_carpets:ice_carpet",
+    "more_carpets:packed_ice_carpet"
+  ]
+}
